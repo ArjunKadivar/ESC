@@ -1,2 +1,2 @@
 # ESC
-## predicting the email or SMS message as it is spam or not spam
+## Predicting the email or SMS message as spam or not spam with different machine learning algirithms.
